@@ -55,7 +55,7 @@ Explanation 2:
  If we delete A[0] or A[1] , array will be balanced
     (5+5) = (2+8)
  So A[0] and A[1] are special elements, so count is 2.
- /*
+ */
  
  public class Solution {
     public int solve(int[] A) {
